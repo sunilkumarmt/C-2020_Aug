@@ -4,6 +4,6 @@
 void main()
 {
 printf("testing");
-  printf("tes 1");
+printf("sting 1");
 getch();
 }
